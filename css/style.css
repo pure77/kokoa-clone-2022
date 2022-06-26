@@ -1,0 +1,10 @@
+@import "reset.css";
+@import "variables.css";
+/* 구성요소 */
+@import "구성요소/status-bar.css";
+/* 화면 */
+@import "화면/login.css";
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
